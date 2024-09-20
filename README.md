@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mail4inzamam@gmail.com**
 
-- 📫 Portfolio : <a href="https://devinzi.netlify.app/" target="blank"/>
+- 📫 Portfolio : <a href="https://devinzi.netlify.app/" alt="https://devinzi.netlify.app/" target="blank"/>
 
 - ⚡ Fun fact **I am funny😂**
 <p> 
