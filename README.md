@@ -14,7 +14,9 @@
 
 - 💬 Ask me about **Javascript,React Native**
 
-- 📫 How to reach me **abbasiinzamam2@gmail.com**
+- 📫 How to reach me **mail4inzamam@gmail.com**
+
+- 📫 Portfolio : <a href="https://devinzi.netlify.app/" target="blank"/>
 
 - ⚡ Fun fact **I am funny😂**
 <p> 
