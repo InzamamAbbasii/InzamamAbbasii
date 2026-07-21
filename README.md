@@ -333,7 +333,7 @@ Open Source Goal:    Sharing reusable React Native modules with the community
 
 </div>
 
-> 💡 *Snake animation and streak stats update automatically once the corresponding GitHub Action / workflow is enabled on this profile repository.*
+> 
 
 <br/>
 
