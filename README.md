@@ -63,7 +63,7 @@ const inzamam = {
 - 💳 I've built and integrated real-world **payment & subscription systems** using **Stripe, RevenueCat, and PayPal**.
 - 📡 I've shipped **real-time features** — chat, video/audio calling, and live streaming — using **Socket.io** and **Agora SDK**.
 - 👥 I currently **lead a team of 5 developers** — running code reviews, mentoring, and owning release cycles.
-- 📦 I've shipped **15+ production apps** live on the **App Store** and **Google Play**, across healthcare, wellness, e-commerce, and marketplace domains.
+- 📦 I've shipped **25+ production apps** live on the **App Store** and **Google Play**, across healthcare, wellness, e-commerce, and marketplace domains.
 - 🎓 I hold a **Master of Computer Science (MCS)** from PMAS Arid Agriculture University, Rawalpindi.
 - 🌍 Based in **Islamabad, Pakistan** — open to **Remote, Onsite, and Relocation** opportunities.
 
@@ -262,7 +262,7 @@ Parking slot booking, real-time availability tracking, reviews, subscriptions, i
 
 ### 📊 Impact Snapshot
 
-- 📱 **15+** production apps shipped
+- 📱 **25+** production apps shipped
 - 🏥 Healthcare, wellness, e-commerce & marketplace domains
 - 💳 Full-cycle **payment & subscription** system integrations
 - 📡 Real-time chat, audio/video calling, live streaming
@@ -282,11 +282,11 @@ Parking slot booking, real-time availability tracking, reviews, subscriptions, i
 
 | 📦 Apps Shipped | 🗓️ Experience | 👥 Team Led | 🏭 Industries |
 |:---:|:---:|:---:|:---:|
-| **15+** | **4+ Years** | **5 Developers** | **4 Domains** |
+| **25+** | **4+ Years** | **5 Developers** | **4 Domains** |
 
 </div>
 
-- ✅ Successfully developed, deployed, and maintained **15+ production mobile applications** on the App Store & Google Play Store.
+- ✅ Successfully developed, deployed, and maintained **25+ production mobile applications** on the App Store & Google Play Store.
 - 💳 Built and integrated payment systems, real-time features, push notifications, and subscriptions using **Stripe, RevenueCat, Firebase, Agora SDK, and Google Maps APIs**.
 - 🧑‍🏫 Led a team of **5 developers**, conducted code reviews, and mentored junior engineers to improve development practices and delivery timelines.
 - ⚡ Improved application performance, stability, and UX by optimizing API integrations, rendering, and state management.
@@ -305,35 +305,6 @@ Currently Exploring: Deeper performance optimization in React Native apps
 Future Goal:         Architecting large-scale mobile platforms & mentoring engineers
 Open Source Goal:    Sharing reusable React Native modules with the community
 ```
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=InzamamAbbasii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=2F80ED&icon_color=2F80ED&text_color=C9D1D9&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=InzamamAbbasii&theme=tokyonight&hide_border=true&background=0D1117&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InzamamAbbasii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=InzamamAbbasii&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F80ED&line=2F80ED&point=ffffff" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-trophy.vercel.app/?username=InzamamAbbasii&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="90%" />
-
-<br/><br/>
-
-<!-- Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/InzamamAbbasii/InzamamAbbasii/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake animation" />
-
-</div>
-
-> 
 
 <br/>
 
